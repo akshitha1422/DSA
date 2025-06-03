@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akshitha1422/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akshitha1422/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akshitha1422/DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/akshitha1422/DSA/tree/master/0485-max-consecutive-ones) |
 | [2892-check-if-array-is-good](https://github.com/akshitha1422/DSA/tree/master/2892-check-if-array-is-good) |
 ## Hash Table
 |  |
