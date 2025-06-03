@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akshitha1422/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshitha1422/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/akshitha1422/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshitha1422/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/akshitha1422/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/akshitha1422/DSA/tree/master/0189-rotate-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/akshitha1422/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshitha1422/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/akshitha1422/DSA/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/akshitha1422/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/akshitha1422/DSA/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/akshitha1422/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
