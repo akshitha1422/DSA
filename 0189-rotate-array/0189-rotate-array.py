@@ -6,7 +6,8 @@ class Solution:
         if not nums:
             return 
         k=k%len(nums)
-        for i in range(k):
-            a=nums[-1]
-            nums.insert(0,a)
-            del nums[-1]
+        # for i in range(k):
+        #     a=nums[-1]
+        #     nums.insert(0,a)
+        #     del nums[-1]
+        nums[:] = nums[-k:] + nums[:-k]
