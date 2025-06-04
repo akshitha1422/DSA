@@ -7,12 +7,6 @@ class Solution:
             if i<(len(s)-1) and (s[i]+s[i+1]) in sym.keys():
                 total+=sym[s[i]+s[i+1]]
                 i+=2
-            # elif i<(len(s)-1) and s[i]=='X' and (s[i+1]=='L' or s[i+1]=='C'):
-            #     total+=sym[s[i]+s[i+1]]
-            #     i+=2
-            # elif i<(len(s)-1) and s[i]=='C' and (s[i+1]=='D' or s[i+1]=='M'):
-            #     total+=sym[s[i]+s[i+1]]
-            #     i+=2
             else:
                 total+=sym[s[i]]
                 i+=1
