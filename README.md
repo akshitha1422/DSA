@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshitha1422/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/akshitha1422/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshitha1422/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akshitha1422/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/akshitha1422/DSA/tree/master/0053-maximum-subarray) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshitha1422/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshitha1422/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akshitha1422/DSA/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/akshitha1422/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshitha1422/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshitha1422/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/akshitha1422/DSA/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
