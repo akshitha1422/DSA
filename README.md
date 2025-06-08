@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshitha1422/DSA/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/akshitha1422/DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/akshitha1422/DSA/tree/master/0735-asteroid-collision) |
 | [1048-clumsy-factorial](https://github.com/akshitha1422/DSA/tree/master/1048-clumsy-factorial) |
 | [2470-removing-stars-from-a-string](https://github.com/akshitha1422/DSA/tree/master/2470-removing-stars-from-a-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/akshitha1422/DSA/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/akshitha1422/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/akshitha1422/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshitha1422/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/akshitha1422/DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/akshitha1422/DSA/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/akshitha1422/DSA/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/akshitha1422/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/akshitha1422/DSA/tree/master/1894-merge-strings-alternately) |
