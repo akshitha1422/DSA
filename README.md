@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshitha1422/DSA/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/akshitha1422/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/akshitha1422/DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/akshitha1422/DSA/tree/master/0735-asteroid-collision) |
 | [1048-clumsy-factorial](https://github.com/akshitha1422/DSA/tree/master/1048-clumsy-factorial) |
@@ -148,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akshitha1422/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/akshitha1422/DSA/tree/master/0724-find-pivot-index) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/akshitha1422/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/akshitha1422/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
