@@ -4,7 +4,6 @@ class Solution:
         for i in range(n):
             if nums[i] <= 0 or nums[i] > n:
                 nums[i]=n+1
-        nums=sorted(nums)
         for i in range(n):
             num=abs(nums[i])
             if num<=n:
