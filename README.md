@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/akshitha1422/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/akshitha1422/DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/akshitha1422/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/akshitha1422/DSA/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/akshitha1422/DSA/tree/master/0874-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/akshitha1422/DSA/tree/master/1048-clumsy-factorial) |
 | [2470-removing-stars-from-a-string](https://github.com/akshitha1422/DSA/tree/master/2470-removing-stars-from-a-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/akshitha1422/DSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/akshitha1422/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/akshitha1422/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/akshitha1422/DSA/tree/master/0739-daily-temperatures) |
 | [0978-valid-mountain-array](https://github.com/akshitha1422/DSA/tree/master/0978-valid-mountain-array) |
 | [1168-duplicate-zeros](https://github.com/akshitha1422/DSA/tree/master/1168-duplicate-zeros) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/akshitha1422/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/akshitha1422/DSA/tree/master/0969-number-of-recent-calls) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/akshitha1422/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
