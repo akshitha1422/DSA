@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/akshitha1422/DSA/tree/master/0874-backspace-string-compare) |
 | [0961-long-pressed-name](https://github.com/akshitha1422/DSA/tree/master/0961-long-pressed-name) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/akshitha1422/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshitha1422/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/akshitha1422/DSA/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/akshitha1422/DSA/tree/master/1904-second-largest-digit-in-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/akshitha1422/DSA/tree/master/2470-removing-stars-from-a-string) |
@@ -213,4 +214,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/akshitha1422/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshitha1422/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
