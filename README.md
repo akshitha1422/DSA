@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/akshitha1422/DSA/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/akshitha1422/DSA/tree/master/1048-clumsy-factorial) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/akshitha1422/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/akshitha1422/DSA/tree/master/0739-daily-temperatures) |
 | [0978-valid-mountain-array](https://github.com/akshitha1422/DSA/tree/master/0978-valid-mountain-array) |
 | [1168-duplicate-zeros](https://github.com/akshitha1422/DSA/tree/master/1168-duplicate-zeros) |
+| [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/akshitha1422/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/akshitha1422/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/akshitha1422/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akshitha1422/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshitha1422/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshitha1422/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/akshitha1422/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1904-second-largest-digit-in-a-string](https://github.com/akshitha1422/DSA/tree/master/1904-second-largest-digit-in-a-string) |
 | [2892-check-if-array-is-good](https://github.com/akshitha1422/DSA/tree/master/2892-check-if-array-is-good) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akshitha1422/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/akshitha1422/DSA/tree/master/0724-find-pivot-index) |
+| [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Design
 |  |
 | ------- |
@@ -220,5 +224,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshitha1422/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshitha1422/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/akshitha1422/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshitha1422/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
