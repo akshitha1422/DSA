@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-clumsy-factorial](https://github.com/akshitha1422/DSA/tree/master/1048-clumsy-factorial) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/akshitha1422/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/akshitha1422/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Stack
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/akshitha1422/DSA/tree/master/0874-backspace-string-compare) |
 | [0961-long-pressed-name](https://github.com/akshitha1422/DSA/tree/master/0961-long-pressed-name) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/akshitha1422/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/akshitha1422/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshitha1422/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/akshitha1422/DSA/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/akshitha1422/DSA/tree/master/1904-second-largest-digit-in-a-string) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/akshitha1422/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/akshitha1422/DSA/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/akshitha1422/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshitha1422/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akshitha1422/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/akshitha1422/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
