@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshitha1422/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/akshitha1422/DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/akshitha1422/DSA/tree/master/0041-first-missing-positive) |
+| [0187-repeated-dna-sequences](https://github.com/akshitha1422/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/akshitha1422/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akshitha1422/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/akshitha1422/DSA/tree/master/0268-missing-number) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/akshitha1422/DSA/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/akshitha1422/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/akshitha1422/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0187-repeated-dna-sequences](https://github.com/akshitha1422/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshitha1422/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/akshitha1422/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/akshitha1422/DSA/tree/master/0394-decode-string) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/akshitha1422/DSA/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/akshitha1422/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/akshitha1422/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/akshitha1422/DSA/tree/master/0338-counting-bits) |
 ## Divide and Conquer
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshitha1422/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/akshitha1422/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/akshitha1422/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshitha1422/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshitha1422/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -261,4 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshitha1422/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/akshitha1422/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/akshitha1422/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/akshitha1422/DSA/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/akshitha1422/DSA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
