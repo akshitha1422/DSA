@@ -9,6 +9,4 @@ class Solution:
                 count=min(count,j-i+1)
                 s-=nums[i]
                 i+=1
-        if count==float('inf'):
-            return 0
-        return count
+        return 0 if count==float('inf') else count
