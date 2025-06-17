@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akshitha1422/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/akshitha1422/DSA/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/akshitha1422/DSA/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/akshitha1422/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -314,5 +315,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/akshitha1422/DSA/tree/master/0206-reverse-linked-list) |
 | [0860-design-circular-queue](https://github.com/akshitha1422/DSA/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
