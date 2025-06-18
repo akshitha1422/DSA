@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/akshitha1422/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akshitha1422/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/akshitha1422/DSA/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/akshitha1422/DSA/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/akshitha1422/DSA/tree/master/0860-design-circular-queue) |
 | [0940-fruit-into-baskets](https://github.com/akshitha1422/DSA/tree/master/0940-fruit-into-baskets) |
 | [0978-valid-mountain-array](https://github.com/akshitha1422/DSA/tree/master/0978-valid-mountain-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshitha1422/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/akshitha1422/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshitha1422/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0816-design-hashset](https://github.com/akshitha1422/DSA/tree/master/0816-design-hashset) |
 | [0940-fruit-into-baskets](https://github.com/akshitha1422/DSA/tree/master/0940-fruit-into-baskets) |
 | [1319-unique-number-of-occurrences](https://github.com/akshitha1422/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/akshitha1422/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akshitha1422/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshitha1422/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0816-design-hashset](https://github.com/akshitha1422/DSA/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/akshitha1422/DSA/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/akshitha1422/DSA/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/akshitha1422/DSA/tree/master/0969-number-of-recent-calls) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/akshitha1422/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0816-design-hashset](https://github.com/akshitha1422/DSA/tree/master/0816-design-hashset) |
 ## Interactive
 |  |
 | ------- |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/akshitha1422/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/akshitha1422/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/akshitha1422/DSA/tree/master/0234-palindrome-linked-list) |
+| [0816-design-hashset](https://github.com/akshitha1422/DSA/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/akshitha1422/DSA/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/akshitha1422/DSA/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/akshitha1422/DSA/tree/master/0908-middle-of-the-linked-list) |
