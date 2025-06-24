@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/akshitha1422/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/akshitha1422/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/akshitha1422/DSA/tree/master/0724-find-pivot-index) |
+| [0733-flood-fill](https://github.com/akshitha1422/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/akshitha1422/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akshitha1422/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/akshitha1422/DSA/tree/master/0792-binary-search) |
@@ -387,5 +388,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/akshitha1422/DSA/tree/master/0733-flood-fill) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshitha1422/DSA/tree/master/2428-equal-row-and-column-pairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/akshitha1422/DSA/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/akshitha1422/DSA/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
