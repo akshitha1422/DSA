@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/akshitha1422/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/akshitha1422/DSA/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/akshitha1422/DSA/tree/master/0860-design-circular-queue) |
+| [0890-lemonade-change](https://github.com/akshitha1422/DSA/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/akshitha1422/DSA/tree/master/0940-fruit-into-baskets) |
 | [0978-valid-mountain-array](https://github.com/akshitha1422/DSA/tree/master/0978-valid-mountain-array) |
 | [1168-duplicate-zeros](https://github.com/akshitha1422/DSA/tree/master/1168-duplicate-zeros) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/akshitha1422/DSA/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/akshitha1422/DSA/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/akshitha1422/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0890-lemonade-change](https://github.com/akshitha1422/DSA/tree/master/0890-lemonade-change) |
 ## Prefix Sum
 |  |
 | ------- |
