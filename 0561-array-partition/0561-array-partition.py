@@ -4,7 +4,6 @@ class Solution:
         i=0
         total=0
         while i+1<len(nums):
-            curr=min(nums[i],nums[i+1])
-            total+=curr
+            total+=nums[i]
             i=i+2
         return total
