@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akshitha1422/DSA/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/akshitha1422/DSA/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/akshitha1422/DSA/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/akshitha1422/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1048-clumsy-factorial](https://github.com/akshitha1422/DSA/tree/master/1048-clumsy-factorial) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/akshitha1422/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/akshitha1422/DSA/tree/master/0940-fruit-into-baskets) |
 | [0978-valid-mountain-array](https://github.com/akshitha1422/DSA/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/akshitha1422/DSA/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/akshitha1422/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1168-duplicate-zeros](https://github.com/akshitha1422/DSA/tree/master/1168-duplicate-zeros) |
 | [1319-unique-number-of-occurrences](https://github.com/akshitha1422/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akshitha1422/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/akshitha1422/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshitha1422/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [1018-largest-perimeter-triangle](https://github.com/akshitha1422/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1777-determine-if-two-strings-are-close](https://github.com/akshitha1422/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/akshitha1422/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshitha1422/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/akshitha1422/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/akshitha1422/DSA/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/akshitha1422/DSA/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/akshitha1422/DSA/tree/master/1018-largest-perimeter-triangle) |
 ## Prefix Sum
 |  |
 | ------- |
