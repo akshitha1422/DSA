@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/akshitha1422/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshitha1422/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/akshitha1422/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/akshitha1422/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshitha1422/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshitha1422/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/akshitha1422/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/akshitha1422/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/akshitha1422/DSA/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/akshitha1422/DSA/tree/master/2154-minimum-moves-to-convert-string) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/akshitha1422/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Prefix Sum
 |  |
 | ------- |
