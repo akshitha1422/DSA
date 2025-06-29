@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/akshitha1422/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/akshitha1422/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshitha1422/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/akshitha1422/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshitha1422/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/akshitha1422/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2892-check-if-array-is-good](https://github.com/akshitha1422/DSA/tree/master/2892-check-if-array-is-good) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/akshitha1422/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshitha1422/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshitha1422/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/akshitha1422/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2892-check-if-array-is-good](https://github.com/akshitha1422/DSA/tree/master/2892-check-if-array-is-good) |
 ## Two Pointers
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/akshitha1422/DSA/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/akshitha1422/DSA/tree/master/2154-minimum-moves-to-convert-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/akshitha1422/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/akshitha1422/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Prefix Sum
 |  |
 | ------- |
