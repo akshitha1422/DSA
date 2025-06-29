@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/akshitha1422/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/akshitha1422/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/akshitha1422/DSA/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2154-minimum-moves-to-convert-string](https://github.com/akshitha1422/DSA/tree/master/2154-minimum-moves-to-convert-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/akshitha1422/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/akshitha1422/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/akshitha1422/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/akshitha1422/DSA/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/akshitha1422/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/akshitha1422/DSA/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2154-minimum-moves-to-convert-string](https://github.com/akshitha1422/DSA/tree/master/2154-minimum-moves-to-convert-string) |
 ## Prefix Sum
 |  |
 | ------- |
