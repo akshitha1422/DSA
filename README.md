@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/akshitha1422/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/akshitha1422/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/akshitha1422/DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/akshitha1422/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/akshitha1422/DSA/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/akshitha1422/DSA/tree/master/0068-text-justification) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshitha1422/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/akshitha1422/DSA/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/akshitha1422/DSA/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/akshitha1422/DSA/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/akshitha1422/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akshitha1422/DSA/tree/master/0268-missing-number) |
