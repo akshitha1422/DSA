@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/akshitha1422/DSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1081-video-stitching](https://github.com/akshitha1422/DSA/tree/master/1081-video-stitching) |
 | [1168-duplicate-zeros](https://github.com/akshitha1422/DSA/tree/master/1168-duplicate-zeros) |
+| [1222-remove-covered-intervals](https://github.com/akshitha1422/DSA/tree/master/1222-remove-covered-intervals) |
 | [1319-unique-number-of-occurrences](https://github.com/akshitha1422/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/akshitha1422/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/akshitha1422/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1018-largest-perimeter-triangle](https://github.com/akshitha1422/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/akshitha1422/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1222-remove-covered-intervals](https://github.com/akshitha1422/DSA/tree/master/1222-remove-covered-intervals) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/akshitha1422/DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1777-determine-if-two-strings-are-close](https://github.com/akshitha1422/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/akshitha1422/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
