@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/akshitha1422/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/akshitha1422/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/akshitha1422/DSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1081-video-stitching](https://github.com/akshitha1422/DSA/tree/master/1081-video-stitching) |
 | [1168-duplicate-zeros](https://github.com/akshitha1422/DSA/tree/master/1168-duplicate-zeros) |
 | [1319-unique-number-of-occurrences](https://github.com/akshitha1422/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/akshitha1422/DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/akshitha1422/DSA/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/akshitha1422/DSA/tree/master/1013-fibonacci-number) |
+| [1081-video-stitching](https://github.com/akshitha1422/DSA/tree/master/1081-video-stitching) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akshitha1422/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/akshitha1422/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/akshitha1422/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/akshitha1422/DSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1081-video-stitching](https://github.com/akshitha1422/DSA/tree/master/1081-video-stitching) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/akshitha1422/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/akshitha1422/DSA/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/akshitha1422/DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
