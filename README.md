@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/akshitha1422/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1448-maximum-69-number](https://github.com/akshitha1422/DSA/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/akshitha1422/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshitha1422/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-clumsy-factorial](https://github.com/akshitha1422/DSA/tree/master/1048-clumsy-factorial) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshitha1422/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/akshitha1422/DSA/tree/master/2470-removing-stars-from-a-string) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshitha1422/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/akshitha1422/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/akshitha1422/DSA/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/akshitha1422/DSA/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshitha1422/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/akshitha1422/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/akshitha1422/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/akshitha1422/DSA/tree/master/0338-counting-bits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshitha1422/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
