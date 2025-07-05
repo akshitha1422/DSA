@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/akshitha1422/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/akshitha1422/DSA/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/akshitha1422/DSA/tree/master/0860-design-circular-queue) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/akshitha1422/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/akshitha1422/DSA/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/akshitha1422/DSA/tree/master/0940-fruit-into-baskets) |
 | [0978-valid-mountain-array](https://github.com/akshitha1422/DSA/tree/master/0978-valid-mountain-array) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akshitha1422/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/akshitha1422/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshitha1422/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/akshitha1422/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1018-largest-perimeter-triangle](https://github.com/akshitha1422/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/akshitha1422/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1222-remove-covered-intervals](https://github.com/akshitha1422/DSA/tree/master/1222-remove-covered-intervals) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/akshitha1422/DSA/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/akshitha1422/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/akshitha1422/DSA/tree/master/0768-partition-labels) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/akshitha1422/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/akshitha1422/DSA/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/akshitha1422/DSA/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/akshitha1422/DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/akshitha1422/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshitha1422/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Binary Indexed Tree
 |  |
