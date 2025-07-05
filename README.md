@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/akshitha1422/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/akshitha1422/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/akshitha1422/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/akshitha1422/DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/akshitha1422/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akshitha1422/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/akshitha1422/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/akshitha1422/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/akshitha1422/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/akshitha1422/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/akshitha1422/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1904-second-largest-digit-in-a-string](https://github.com/akshitha1422/DSA/tree/master/1904-second-largest-digit-in-a-string) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/akshitha1422/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/akshitha1422/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/akshitha1422/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/akshitha1422/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/akshitha1422/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/akshitha1422/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
