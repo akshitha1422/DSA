@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akshitha1422/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/akshitha1422/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/akshitha1422/DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/akshitha1422/DSA/tree/master/0518-coin-change-ii) |
 | [0561-array-partition](https://github.com/akshitha1422/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshitha1422/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/akshitha1422/DSA/tree/master/0605-can-place-flowers) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/akshitha1422/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/akshitha1422/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/akshitha1422/DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/akshitha1422/DSA/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/akshitha1422/DSA/tree/master/1013-fibonacci-number) |
 | [1081-video-stitching](https://github.com/akshitha1422/DSA/tree/master/1081-video-stitching) |
 | [1130-last-stone-weight-ii](https://github.com/akshitha1422/DSA/tree/master/1130-last-stone-weight-ii) |
