@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/akshitha1422/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/akshitha1422/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/akshitha1422/DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/akshitha1422/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/akshitha1422/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshitha1422/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshitha1422/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akshitha1422/DSA/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/akshitha1422/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0068-text-justification](https://github.com/akshitha1422/DSA/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/akshitha1422/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/akshitha1422/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/akshitha1422/DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/akshitha1422/DSA/tree/master/0151-reverse-words-in-a-string) |
