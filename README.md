@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/akshitha1422/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/akshitha1422/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/akshitha1422/DSA/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/akshitha1422/DSA/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/akshitha1422/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshitha1422/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshitha1422/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/akshitha1422/DSA/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/akshitha1422/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/akshitha1422/DSA/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/akshitha1422/DSA/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/akshitha1422/DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/akshitha1422/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/akshitha1422/DSA/tree/master/0168-excel-sheet-column-title) |
