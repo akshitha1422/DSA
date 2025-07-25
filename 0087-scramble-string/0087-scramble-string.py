@@ -1,7 +1,8 @@
-
+from functools import lru_cache
 class Solution:
     def isScramble(self, s1: str, s2: str) -> bool:
         memo={}
+        @lru_cache(None)
         def helper(s1,s2):
             if (s1,s2) in memo:
                 return memo[(s1,s2)]
