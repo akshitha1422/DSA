@@ -74,6 +74,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0073-set-matrix-zeroes](https://github.com/akshitha1422/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshitha1422/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshitha1422/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/akshitha1422/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/akshitha1422/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/akshitha1422/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/akshitha1422/DSA/tree/master/0136-single-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0041-first-missing-positive](https://github.com/akshitha1422/DSA/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/akshitha1422/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/akshitha1422/DSA/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/akshitha1422/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/akshitha1422/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshitha1422/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshitha1422/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -572,4 +574,8 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/akshitha1422/DSA/tree/master/0494-target-sum) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/akshitha1422/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
