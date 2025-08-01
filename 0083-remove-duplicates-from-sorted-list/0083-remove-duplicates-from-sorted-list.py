@@ -17,13 +17,9 @@ class Solution:
         #     curr=curr.next
         # return head
         curr=head
-        prev=None
-        seen=[]
-        while curr:
-            if curr.val in seen:
-                prev.next=curr.next
+        while curr and curr.next:
+            if curr.val==curr.next.val:
+                curr.next=curr.next.next
             else:
-                seen.append(curr.val)
-                prev=curr
-            curr=curr.next
+                curr=curr.next
         return head
