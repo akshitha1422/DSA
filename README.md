@@ -71,6 +71,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0056-merge-intervals](https://github.com/akshitha1422/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/akshitha1422/DSA/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/akshitha1422/DSA/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/akshitha1422/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshitha1422/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshitha1422/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/akshitha1422/DSA/tree/master/0134-gas-station) |
@@ -154,6 +155,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0013-roman-to-integer](https://github.com/akshitha1422/DSA/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/akshitha1422/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/akshitha1422/DSA/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/akshitha1422/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/akshitha1422/DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/akshitha1422/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshitha1422/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -537,6 +539,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/akshitha1422/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/akshitha1422/DSA/tree/master/0733-flood-fill) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshitha1422/DSA/tree/master/2428-equal-row-and-column-pairs) |
 ## Depth-First Search
