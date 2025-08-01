@@ -10,6 +10,6 @@ class Solution:
                 return mid
             elif target<nums[mid]:
                 high=mid-1
-            elif target>nums[mid]:
+            elif nums[mid]<target:
                 low=mid+1
         return -1
