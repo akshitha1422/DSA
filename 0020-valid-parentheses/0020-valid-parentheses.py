@@ -6,8 +6,7 @@ class Solution:
         for i in s:
             if i in sym.keys():
                 st.append(i)
-            if i in sym.values():
+            elif i in sym.values():
                 if not st or sym[st.pop()]!=i:
                     return False
         return len(st)==0
-            
