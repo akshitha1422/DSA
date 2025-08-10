@@ -402,6 +402,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshitha1422/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/akshitha1422/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/akshitha1422/DSA/tree/master/0169-majority-element) |
 ## Greedy
@@ -527,6 +528,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0002-add-two-numbers](https://github.com/akshitha1422/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshitha1422/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/akshitha1422/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/akshitha1422/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/akshitha1422/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/akshitha1422/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akshitha1422/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -572,6 +574,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshitha1422/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akshitha1422/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshitha1422/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Binary Indexed Tree
@@ -590,4 +593,8 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/akshitha1422/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshitha1422/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
