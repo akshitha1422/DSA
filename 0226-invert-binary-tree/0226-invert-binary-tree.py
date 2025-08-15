@@ -13,8 +13,6 @@ class Solution:
                 dfs(node.left)
             if node.right:
                 dfs(node.right)
-            temp=node.left
-            node.left=node.right
-            node.right=temp
+            node.left, node.right=node.right, node.left
         dfs(root)
         return root
