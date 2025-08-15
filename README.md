@@ -516,6 +516,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/akshitha1422/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0572-subtree-of-another-tree](https://github.com/akshitha1422/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/akshitha1422/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/akshitha1422/DSA/tree/master/0817-design-hashmap) |
 ## Interactive
@@ -567,6 +568,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/akshitha1422/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/akshitha1422/DSA/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -616,6 +618,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/akshitha1422/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -625,4 +628,9 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/akshitha1422/DSA/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/akshitha1422/DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
