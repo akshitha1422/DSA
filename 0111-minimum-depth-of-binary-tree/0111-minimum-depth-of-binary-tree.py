@@ -14,9 +14,9 @@ class Solution:
 
         if not root:
             return 0
-        queue=[(root,1)]
+        queue=deque([(root,1)])
         while queue:
-            node,dep=queue.pop(0)
+            node,dep=queue.popleft()
             if not node.left and not node.right:
                 return dep
             if node.left:
