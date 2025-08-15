@@ -561,10 +561,12 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/akshitha1422/DSA/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/akshitha1422/DSA/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/akshitha1422/DSA/tree/master/0733-flood-fill) |
 ## Counting Sort
@@ -597,4 +599,12 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akshitha1422/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
