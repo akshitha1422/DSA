@@ -409,6 +409,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/akshitha1422/DSA/tree/master/0169-majority-element) |
+| [1285-balance-a-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/1285-balance-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -434,6 +435,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/akshitha1422/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/akshitha1422/DSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1081-video-stitching](https://github.com/akshitha1422/DSA/tree/master/1081-video-stitching) |
+| [1285-balance-a-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/akshitha1422/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/akshitha1422/DSA/tree/master/1448-maximum-69-number) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/akshitha1422/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -582,6 +584,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0572-subtree-of-another-tree](https://github.com/akshitha1422/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/akshitha1422/DSA/tree/master/0733-flood-fill) |
 | [0975-range-sum-of-bst](https://github.com/akshitha1422/DSA/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -650,6 +653,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0783-search-in-a-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/akshitha1422/DSA/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -675,6 +679,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0783-search-in-a-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/akshitha1422/DSA/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/1285-balance-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -691,4 +696,5 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0783-search-in-a-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/akshitha1422/DSA/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
