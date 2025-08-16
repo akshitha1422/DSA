@@ -77,6 +77,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0068-text-justification](https://github.com/akshitha1422/DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/akshitha1422/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/akshitha1422/DSA/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshitha1422/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshitha1422/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/akshitha1422/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -405,6 +406,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akshitha1422/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/akshitha1422/DSA/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/akshitha1422/DSA/tree/master/0169-majority-element) |
 ## Greedy
 |  |
@@ -629,6 +631,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akshitha1422/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/akshitha1422/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/akshitha1422/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -650,6 +653,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akshitha1422/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/akshitha1422/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshitha1422/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/akshitha1422/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -669,6 +673,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshitha1422/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akshitha1422/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0783-search-in-a-binary-search-tree) |
