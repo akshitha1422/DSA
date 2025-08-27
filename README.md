@@ -124,6 +124,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0792-binary-search](https://github.com/akshitha1422/DSA/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/akshitha1422/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/akshitha1422/DSA/tree/master/0817-design-hashmap) |
+| [0839-short-encoding-of-words](https://github.com/akshitha1422/DSA/tree/master/0839-short-encoding-of-words) |
 | [0860-design-circular-queue](https://github.com/akshitha1422/DSA/tree/master/0860-design-circular-queue) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akshitha1422/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/akshitha1422/DSA/tree/master/0890-lemonade-change) |
@@ -194,6 +195,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0768-partition-labels](https://github.com/akshitha1422/DSA/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/akshitha1422/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/akshitha1422/DSA/tree/master/0817-design-hashmap) |
+| [0839-short-encoding-of-words](https://github.com/akshitha1422/DSA/tree/master/0839-short-encoding-of-words) |
 | [0940-fruit-into-baskets](https://github.com/akshitha1422/DSA/tree/master/0940-fruit-into-baskets) |
 | [1319-unique-number-of-occurrences](https://github.com/akshitha1422/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -301,6 +303,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0720-longest-word-in-dictionary](https://github.com/akshitha1422/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/akshitha1422/DSA/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/akshitha1422/DSA/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0839-short-encoding-of-words](https://github.com/akshitha1422/DSA/tree/master/0839-short-encoding-of-words) |
 | [0874-backspace-string-compare](https://github.com/akshitha1422/DSA/tree/master/0874-backspace-string-compare) |
 | [0961-long-pressed-name](https://github.com/akshitha1422/DSA/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/akshitha1422/DSA/tree/master/0979-di-string-match) |
@@ -730,4 +733,5 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0648-replace-words](https://github.com/akshitha1422/DSA/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/akshitha1422/DSA/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/akshitha1422/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0839-short-encoding-of-words](https://github.com/akshitha1422/DSA/tree/master/0839-short-encoding-of-words) |
 <!---LeetCode Topics End-->
