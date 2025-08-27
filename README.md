@@ -90,6 +90,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0189-rotate-array](https://github.com/akshitha1422/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/akshitha1422/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshitha1422/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/akshitha1422/DSA/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/akshitha1422/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akshitha1422/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/akshitha1422/DSA/tree/master/0238-product-of-array-except-self) |
@@ -278,6 +279,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0187-repeated-dna-sequences](https://github.com/akshitha1422/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/akshitha1422/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/akshitha1422/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/akshitha1422/DSA/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/akshitha1422/DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshitha1422/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/akshitha1422/DSA/tree/master/0392-is-subsequence) |
@@ -579,6 +581,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshitha1422/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/akshitha1422/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0212-word-search-ii](https://github.com/akshitha1422/DSA/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/akshitha1422/DSA/tree/master/0733-flood-fill) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshitha1422/DSA/tree/master/2428-equal-row-and-column-pairs) |
 ## Depth-First Search
@@ -635,6 +638,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 ## Backtracking
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/akshitha1422/DSA/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/akshitha1422/DSA/tree/master/0494-target-sum) |
 ## Union Find
 |  |
@@ -718,6 +722,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/akshitha1422/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/akshitha1422/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/akshitha1422/DSA/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/akshitha1422/DSA/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/akshitha1422/DSA/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/akshitha1422/DSA/tree/master/0720-longest-word-in-dictionary) |
