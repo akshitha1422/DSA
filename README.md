@@ -138,6 +138,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/akshitha1422/DSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1081-video-stitching](https://github.com/akshitha1422/DSA/tree/master/1081-video-stitching) |
 | [1105-uncrossed-lines](https://github.com/akshitha1422/DSA/tree/master/1105-uncrossed-lines) |
+| [1127-last-stone-weight](https://github.com/akshitha1422/DSA/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/akshitha1422/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1168-duplicate-zeros](https://github.com/akshitha1422/DSA/tree/master/1168-duplicate-zeros) |
 | [1222-remove-covered-intervals](https://github.com/akshitha1422/DSA/tree/master/1222-remove-covered-intervals) |
@@ -645,6 +646,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0347-top-k-frequent-elements](https://github.com/akshitha1422/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akshitha1422/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akshitha1422/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [1127-last-stone-weight](https://github.com/akshitha1422/DSA/tree/master/1127-last-stone-weight) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshitha1422/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Binary Indexed Tree
 |  |
