@@ -100,6 +100,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0300-longest-increasing-subsequence](https://github.com/akshitha1422/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/akshitha1422/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/akshitha1422/DSA/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/akshitha1422/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/akshitha1422/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshitha1422/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/akshitha1422/DSA/tree/master/0406-queue-reconstruction-by-height) |
@@ -181,6 +182,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0219-contains-duplicate-ii](https://github.com/akshitha1422/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/akshitha1422/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshitha1422/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/akshitha1422/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/akshitha1422/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshitha1422/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/akshitha1422/DSA/tree/master/0409-longest-palindrome) |
@@ -339,6 +341,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0217-contains-duplicate](https://github.com/akshitha1422/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akshitha1422/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshitha1422/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/akshitha1422/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/akshitha1422/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshitha1422/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/akshitha1422/DSA/tree/master/0406-queue-reconstruction-by-height) |
@@ -432,6 +435,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/akshitha1422/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akshitha1422/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1285-balance-a-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/1285-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -503,6 +507,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akshitha1422/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/akshitha1422/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshitha1422/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/akshitha1422/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshitha1422/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -635,6 +640,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akshitha1422/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akshitha1422/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akshitha1422/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshitha1422/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Binary Indexed Tree
@@ -742,4 +748,9 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akshitha1422/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/akshitha1422/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
