@@ -1,6 +1,6 @@
 class Solution:
-    def __init__(self):
-        self.items=[]
+    # def __init__(self):
+    #     self.items=[]
     def findKthLargest(self, nums: List[int], k: int) -> int:
         st=[]
         for n in nums:
