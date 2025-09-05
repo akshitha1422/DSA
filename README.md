@@ -31,6 +31,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshitha1422/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/akshitha1422/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshitha1422/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/akshitha1422/DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshitha1422/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -68,6 +69,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0033-search-in-rotated-sorted-array](https://github.com/akshitha1422/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akshitha1422/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/akshitha1422/DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/akshitha1422/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/akshitha1422/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/akshitha1422/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/akshitha1422/DSA/tree/master/0054-spiral-matrix) |
@@ -217,6 +219,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akshitha1422/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/akshitha1422/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/akshitha1422/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/akshitha1422/DSA/tree/master/0055-jump-game) |
@@ -375,6 +378,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshitha1422/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshitha1422/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akshitha1422/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/akshitha1422/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/akshitha1422/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/akshitha1422/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akshitha1422/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -526,6 +530,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akshitha1422/DSA/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/akshitha1422/DSA/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
