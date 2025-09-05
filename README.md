@@ -427,6 +427,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0268-missing-number](https://github.com/akshitha1422/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/akshitha1422/DSA/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/akshitha1422/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshitha1422/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
@@ -763,4 +764,12 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akshitha1422/DSA/tree/master/0347-top-k-frequent-elements) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/akshitha1422/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Enumeration
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/akshitha1422/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
