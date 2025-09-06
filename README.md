@@ -190,6 +190,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0347-top-k-frequent-elements](https://github.com/akshitha1422/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/akshitha1422/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshitha1422/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0355-design-twitter](https://github.com/akshitha1422/DSA/tree/master/0355-design-twitter) |
 | [0409-longest-palindrome](https://github.com/akshitha1422/DSA/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshitha1422/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -500,6 +501,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0211-design-add-and-search-words-data-structure](https://github.com/akshitha1422/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/akshitha1422/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshitha1422/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/akshitha1422/DSA/tree/master/0355-design-twitter) |
 | [0677-map-sum-pairs](https://github.com/akshitha1422/DSA/tree/master/0677-map-sum-pairs) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akshitha1422/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/akshitha1422/DSA/tree/master/0816-design-hashset) |
@@ -598,6 +600,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0234-palindrome-linked-list](https://github.com/akshitha1422/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/akshitha1422/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/akshitha1422/DSA/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/akshitha1422/DSA/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/akshitha1422/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/akshitha1422/DSA/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/akshitha1422/DSA/tree/master/0838-design-linked-list) |
@@ -656,6 +659,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0023-merge-k-sorted-lists](https://github.com/akshitha1422/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akshitha1422/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/akshitha1422/DSA/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/akshitha1422/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/akshitha1422/DSA/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akshitha1422/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
