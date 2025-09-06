@@ -16,6 +16,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshitha1422/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/akshitha1422/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/akshitha1422/DSA/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/akshitha1422/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/akshitha1422/DSA/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/akshitha1422/DSA/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/akshitha1422/DSA/tree/master/1013-fibonacci-number) |
