@@ -119,6 +119,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0561-array-partition](https://github.com/akshitha1422/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshitha1422/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/akshitha1422/DSA/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/akshitha1422/DSA/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/akshitha1422/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/akshitha1422/DSA/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/akshitha1422/DSA/tree/master/0720-longest-word-in-dictionary) |
@@ -196,6 +197,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/akshitha1422/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshitha1422/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/akshitha1422/DSA/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/akshitha1422/DSA/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/akshitha1422/DSA/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/akshitha1422/DSA/tree/master/0720-longest-word-in-dictionary) |
@@ -355,6 +357,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0455-assign-cookies](https://github.com/akshitha1422/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/akshitha1422/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshitha1422/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/akshitha1422/DSA/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/akshitha1422/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akshitha1422/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1018-largest-perimeter-triangle](https://github.com/akshitha1422/DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -459,6 +462,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0455-assign-cookies](https://github.com/akshitha1422/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/akshitha1422/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/akshitha1422/DSA/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/akshitha1422/DSA/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/akshitha1422/DSA/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/akshitha1422/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/akshitha1422/DSA/tree/master/0768-partition-labels) |
@@ -517,6 +521,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0169-majority-element](https://github.com/akshitha1422/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/akshitha1422/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshitha1422/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/akshitha1422/DSA/tree/master/0621-task-scheduler) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/akshitha1422/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshitha1422/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/akshitha1422/DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -652,6 +657,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0215-kth-largest-element-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akshitha1422/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/akshitha1422/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0621-task-scheduler](https://github.com/akshitha1422/DSA/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akshitha1422/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akshitha1422/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1127-last-stone-weight](https://github.com/akshitha1422/DSA/tree/master/1127-last-stone-weight) |
