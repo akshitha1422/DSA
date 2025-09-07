@@ -526,6 +526,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0838-design-linked-list](https://github.com/akshitha1422/DSA/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/akshitha1422/DSA/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/akshitha1422/DSA/tree/master/0969-number-of-recent-calls) |
+| [1955-seat-reservation-manager](https://github.com/akshitha1422/DSA/tree/master/1955-seat-reservation-manager) |
 ## Queue
 |  |
 | ------- |
@@ -690,6 +691,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0789-kth-largest-element-in-a-stream](https://github.com/akshitha1422/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akshitha1422/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1127-last-stone-weight](https://github.com/akshitha1422/DSA/tree/master/1127-last-stone-weight) |
+| [1955-seat-reservation-manager](https://github.com/akshitha1422/DSA/tree/master/1955-seat-reservation-manager) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshitha1422/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Binary Indexed Tree
 |  |
