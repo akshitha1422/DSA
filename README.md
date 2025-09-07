@@ -126,6 +126,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0621-task-scheduler](https://github.com/akshitha1422/DSA/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/akshitha1422/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/akshitha1422/DSA/tree/master/0648-replace-words) |
+| [0692-top-k-frequent-words](https://github.com/akshitha1422/DSA/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/akshitha1422/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/akshitha1422/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/akshitha1422/DSA/tree/master/0733-flood-fill) |
@@ -206,6 +207,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0621-task-scheduler](https://github.com/akshitha1422/DSA/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/akshitha1422/DSA/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/akshitha1422/DSA/tree/master/0677-map-sum-pairs) |
+| [0692-top-k-frequent-words](https://github.com/akshitha1422/DSA/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/akshitha1422/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/akshitha1422/DSA/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/akshitha1422/DSA/tree/master/0816-design-hashset) |
@@ -317,6 +319,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0649-dota2-senate](https://github.com/akshitha1422/DSA/tree/master/0649-dota2-senate) |
 | [0677-map-sum-pairs](https://github.com/akshitha1422/DSA/tree/master/0677-map-sum-pairs) |
 | [0680-valid-palindrome-ii](https://github.com/akshitha1422/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0692-top-k-frequent-words](https://github.com/akshitha1422/DSA/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/akshitha1422/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/akshitha1422/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/akshitha1422/DSA/tree/master/0768-partition-labels) |
@@ -369,6 +372,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0561-array-partition](https://github.com/akshitha1422/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshitha1422/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/akshitha1422/DSA/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/akshitha1422/DSA/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/akshitha1422/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akshitha1422/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1018-largest-perimeter-triangle](https://github.com/akshitha1422/DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -538,6 +542,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0451-sort-characters-by-frequency](https://github.com/akshitha1422/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshitha1422/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/akshitha1422/DSA/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/akshitha1422/DSA/tree/master/0692-top-k-frequent-words) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/akshitha1422/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshitha1422/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/akshitha1422/DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -681,6 +686,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshitha1422/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/akshitha1422/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/akshitha1422/DSA/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/akshitha1422/DSA/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akshitha1422/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akshitha1422/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1127-last-stone-weight](https://github.com/akshitha1422/DSA/tree/master/1127-last-stone-weight) |
@@ -787,6 +793,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/akshitha1422/DSA/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/akshitha1422/DSA/tree/master/0677-map-sum-pairs) |
+| [0692-top-k-frequent-words](https://github.com/akshitha1422/DSA/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/akshitha1422/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0839-short-encoding-of-words](https://github.com/akshitha1422/DSA/tree/master/0839-short-encoding-of-words) |
 ## Quickselect
@@ -799,6 +806,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akshitha1422/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/akshitha1422/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/akshitha1422/DSA/tree/master/0692-top-k-frequent-words) |
 ## Brainteaser
 |  |
 | ------- |
