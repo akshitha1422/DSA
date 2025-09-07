@@ -5,6 +5,5 @@ class Solution:
         freq=Counter(s)
         sorted_items=sorted(freq.items(),key=lambda x:x[1],reverse=True)
         for i,v in sorted_items:
-            for _ in range(v):
-                res+=i
+            res+=i*v
         return res
