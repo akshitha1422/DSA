@@ -139,6 +139,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0860-design-circular-queue](https://github.com/akshitha1422/DSA/tree/master/0860-design-circular-queue) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akshitha1422/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/akshitha1422/DSA/tree/master/0890-lemonade-change) |
+| [0901-advantage-shuffle](https://github.com/akshitha1422/DSA/tree/master/0901-advantage-shuffle) |
 | [0940-fruit-into-baskets](https://github.com/akshitha1422/DSA/tree/master/0940-fruit-into-baskets) |
 | [0978-valid-mountain-array](https://github.com/akshitha1422/DSA/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/akshitha1422/DSA/tree/master/0979-di-string-match) |
@@ -375,6 +376,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0692-top-k-frequent-words](https://github.com/akshitha1422/DSA/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/akshitha1422/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akshitha1422/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0901-advantage-shuffle](https://github.com/akshitha1422/DSA/tree/master/0901-advantage-shuffle) |
 | [1018-largest-perimeter-triangle](https://github.com/akshitha1422/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/akshitha1422/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1222-remove-covered-intervals](https://github.com/akshitha1422/DSA/tree/master/1222-remove-covered-intervals) |
@@ -420,6 +422,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0768-partition-labels](https://github.com/akshitha1422/DSA/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/akshitha1422/DSA/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0874-backspace-string-compare](https://github.com/akshitha1422/DSA/tree/master/0874-backspace-string-compare) |
+| [0901-advantage-shuffle](https://github.com/akshitha1422/DSA/tree/master/0901-advantage-shuffle) |
 | [0908-middle-of-the-linked-list](https://github.com/akshitha1422/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0961-long-pressed-name](https://github.com/akshitha1422/DSA/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/akshitha1422/DSA/tree/master/0979-di-string-match) |
@@ -485,6 +488,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0768-partition-labels](https://github.com/akshitha1422/DSA/tree/master/0768-partition-labels) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akshitha1422/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/akshitha1422/DSA/tree/master/0890-lemonade-change) |
+| [0901-advantage-shuffle](https://github.com/akshitha1422/DSA/tree/master/0901-advantage-shuffle) |
 | [0979-di-string-match](https://github.com/akshitha1422/DSA/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/akshitha1422/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/akshitha1422/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
