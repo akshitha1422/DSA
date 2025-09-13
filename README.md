@@ -173,6 +173,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshitha1422/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/akshitha1422/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshitha1422/DSA/tree/master/2428-equal-row-and-column-pairs) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitha1422/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/akshitha1422/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2892-check-if-array-is-good](https://github.com/akshitha1422/DSA/tree/master/2892-check-if-array-is-good) |
 ## Hash Table
@@ -392,6 +393,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshitha1422/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshitha1422/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/akshitha1422/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitha1422/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2892-check-if-array-is-good](https://github.com/akshitha1422/DSA/tree/master/2892-check-if-array-is-good) |
 ## Two Pointers
 |  |
@@ -436,6 +438,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1894-merge-strings-alternately](https://github.com/akshitha1422/DSA/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/akshitha1422/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/akshitha1422/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitha1422/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -511,6 +514,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [2154-minimum-moves-to-convert-string](https://github.com/akshitha1422/DSA/tree/master/2154-minimum-moves-to-convert-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/akshitha1422/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/akshitha1422/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitha1422/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -518,6 +522,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0238-product-of-array-except-self](https://github.com/akshitha1422/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/akshitha1422/DSA/tree/master/0724-find-pivot-index) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitha1422/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Design
 |  |
 | ------- |
@@ -703,6 +708,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1955-seat-reservation-manager](https://github.com/akshitha1422/DSA/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/akshitha1422/DSA/tree/master/1962-single-threaded-cpu) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshitha1422/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitha1422/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Indexed Tree
 |  |
 | ------- |
