@@ -145,6 +145,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0978-valid-mountain-array](https://github.com/akshitha1422/DSA/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/akshitha1422/DSA/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/akshitha1422/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1028-interval-list-intersections](https://github.com/akshitha1422/DSA/tree/master/1028-interval-list-intersections) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/akshitha1422/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/akshitha1422/DSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1081-video-stitching](https://github.com/akshitha1422/DSA/tree/master/1081-video-stitching) |
@@ -429,6 +430,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0908-middle-of-the-linked-list](https://github.com/akshitha1422/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0961-long-pressed-name](https://github.com/akshitha1422/DSA/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/akshitha1422/DSA/tree/master/0979-di-string-match) |
+| [1028-interval-list-intersections](https://github.com/akshitha1422/DSA/tree/master/1028-interval-list-intersections) |
 | [1168-duplicate-zeros](https://github.com/akshitha1422/DSA/tree/master/1168-duplicate-zeros) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/akshitha1422/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/akshitha1422/DSA/tree/master/1894-merge-strings-alternately) |
@@ -825,4 +827,8 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/akshitha1422/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/akshitha1422/DSA/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
