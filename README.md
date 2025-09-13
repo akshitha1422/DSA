@@ -115,6 +115,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0416-partition-equal-subset-sum](https://github.com/akshitha1422/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/akshitha1422/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/akshitha1422/DSA/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshitha1422/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/akshitha1422/DSA/tree/master/0455-assign-cookies) |
@@ -371,6 +372,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshitha1422/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/akshitha1422/DSA/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/akshitha1422/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/akshitha1422/DSA/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/akshitha1422/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshitha1422/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/akshitha1422/DSA/tree/master/0455-assign-cookies) |
@@ -452,6 +454,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0349-intersection-of-two-arrays](https://github.com/akshitha1422/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshitha1422/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshitha1422/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0436-find-right-interval](https://github.com/akshitha1422/DSA/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/akshitha1422/DSA/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/akshitha1422/DSA/tree/master/0792-binary-search) |
 ## Bit Manipulation
