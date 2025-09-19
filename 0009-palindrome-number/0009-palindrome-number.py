@@ -6,6 +6,8 @@ class Solution:
         #     return True
         # else:
         #     return False
+        if x<0:
+            return False
         sx=str(x)
         i=0
         j=len(sx)-1
