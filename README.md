@@ -168,6 +168,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1829-maximum-units-on-a-truck](https://github.com/akshitha1422/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/akshitha1422/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1962-single-threaded-cpu](https://github.com/akshitha1422/DSA/tree/master/1962-single-threaded-cpu) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/akshitha1422/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshitha1422/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/akshitha1422/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/akshitha1422/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -393,6 +394,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1798-max-number-of-k-sum-pairs](https://github.com/akshitha1422/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/akshitha1422/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [1962-single-threaded-cpu](https://github.com/akshitha1422/DSA/tree/master/1962-single-threaded-cpu) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/akshitha1422/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshitha1422/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshitha1422/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/akshitha1422/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -459,6 +461,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0436-find-right-interval](https://github.com/akshitha1422/DSA/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/akshitha1422/DSA/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/akshitha1422/DSA/tree/master/0792-binary-search) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/akshitha1422/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -514,6 +517,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/akshitha1422/DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1829-maximum-units-on-a-truck](https://github.com/akshitha1422/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/akshitha1422/DSA/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/akshitha1422/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/akshitha1422/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/akshitha1422/DSA/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/akshitha1422/DSA/tree/master/2154-minimum-moves-to-convert-string) |
@@ -527,6 +531,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0238-product-of-array-except-self](https://github.com/akshitha1422/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/akshitha1422/DSA/tree/master/0724-find-pivot-index) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/akshitha1422/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitha1422/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Design
 |  |
@@ -598,6 +603,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1430-find-the-k-beauty-of-a-number](https://github.com/akshitha1422/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshitha1422/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akshitha1422/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/akshitha1422/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/akshitha1422/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshitha1422/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/akshitha1422/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
