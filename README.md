@@ -302,6 +302,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0076-minimum-window-substring](https://github.com/akshitha1422/DSA/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/akshitha1422/DSA/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/akshitha1422/DSA/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/akshitha1422/DSA/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/akshitha1422/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/akshitha1422/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/akshitha1422/DSA/tree/master/0168-excel-sheet-column-title) |
@@ -410,6 +411,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0061-rotate-list](https://github.com/akshitha1422/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/akshitha1422/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akshitha1422/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/akshitha1422/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akshitha1422/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshitha1422/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/akshitha1422/DSA/tree/master/0143-reorder-list) |
