@@ -4,10 +4,8 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         if not nums:
-            return 
+            return
         k=k%len(nums)
-        # for i in range(k):
-        #     a=nums[-1]
-        #     nums.insert(0,a)
-        #     del nums[-1]
-        nums[:] = nums[-k:] + nums[:-k]
+        for _ in range(k):
+            a=nums.pop()
+            nums.insert(0,a)
