@@ -6,6 +6,4 @@ class Solution:
         if not nums:
             return
         k=k%len(nums)
-        for _ in range(k):
-            a=nums.pop()
-            nums.insert(0,a)
+        nums[:]=nums[-k:]+nums[:-k]
