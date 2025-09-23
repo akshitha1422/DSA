@@ -84,6 +84,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0073-set-matrix-zeroes](https://github.com/akshitha1422/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/akshitha1422/DSA/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/akshitha1422/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshitha1422/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshitha1422/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/akshitha1422/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -246,6 +247,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0072-edit-distance](https://github.com/akshitha1422/DSA/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/akshitha1422/DSA/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/akshitha1422/DSA/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/akshitha1422/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshitha1422/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshitha1422/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/akshitha1422/DSA/tree/master/0132-palindrome-partitioning-ii) |
