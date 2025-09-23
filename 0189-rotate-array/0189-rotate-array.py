@@ -3,7 +3,5 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        if not nums:
-            return
         k=k%len(nums)
         nums[:]=nums[-k:]+nums[:-k]
