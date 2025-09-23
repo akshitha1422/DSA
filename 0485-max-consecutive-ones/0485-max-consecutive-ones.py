@@ -5,7 +5,7 @@ class Solution:
         for i in nums:
             if i==1:
                 new+=1
-                count=max(count,new)
+                count=max(new,count)
             else:
                 new=0
         return count
