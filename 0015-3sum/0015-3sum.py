@@ -8,17 +8,16 @@ class Solution:
             left=i+1
             right=len(nums)-1
             while left<right:
-                temp=nums[left]+nums[i]+nums[right]
-                if temp==0:
+                s=nums[left]+nums[i]+nums[right]
+                if s==0:
                     st.append([nums[left],nums[i],nums[right]])
                     left+=1
                     right-=1
-
                     while left<right and nums[left]==nums[left-1]:
                         left+=1
                     while left<right and nums[right]==nums[right+1]:
                         right-=1
-                elif temp<0:
+                elif s<0:
                     left+=1
                 else:
                     right-=1
