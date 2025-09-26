@@ -3,9 +3,11 @@ class Solution:
         intervals.sort(key=lambda x:x[0])
         res=[]
         res.append(intervals[0])
-        for i in range(1,len(intervals)):
-            if res[-1][1]>=intervals[i][0]:
-                res[-1][1]=max(res[-1][1],intervals[i][1])
+        for interval in intervals:
+            arr=res[-1]
+            if interval[0]<=arr[1]:
+                res[-1][0]=min(res[-1][0],interval[0])
+                res[-1][1]=max(res[-1][1],interval[1])
             else:
-                res.append(intervals[i])
+                res.append(interval)
         return res
