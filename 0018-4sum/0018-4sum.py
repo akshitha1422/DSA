@@ -11,8 +11,8 @@ class Solution:
                 i=n+1
                 j=len(nums)-1
                 while i<j:
-                    curr = nums[m] + nums[n] + nums[i] + nums[j]
-                    if curr==target:
+                    s=nums[m]+nums[n]+nums[i]+nums[j]
+                    if s==target:
                         st.append([nums[m],nums[n],nums[i],nums[j]])
                         while i<j and nums[i]==nums[i+1]:
                             i+=1
@@ -20,8 +20,8 @@ class Solution:
                             j-=1
                         i+=1
                         j-=1
-                    elif curr<target:
+                    elif s<target:
                         i+=1
-                    elif curr>target:
+                    elif s>target:
                         j-=1
         return st
