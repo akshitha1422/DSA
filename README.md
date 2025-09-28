@@ -127,6 +127,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshitha1422/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/akshitha1422/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/akshitha1422/DSA/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/akshitha1422/DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/akshitha1422/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/akshitha1422/DSA/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/akshitha1422/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -480,6 +481,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshitha1422/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/akshitha1422/DSA/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/akshitha1422/DSA/tree/master/0441-arranging-coins) |
+| [0493-reverse-pairs](https://github.com/akshitha1422/DSA/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/akshitha1422/DSA/tree/master/0792-binary-search) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akshitha1422/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
@@ -502,6 +504,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0169-majority-element](https://github.com/akshitha1422/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akshitha1422/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/akshitha1422/DSA/tree/master/0493-reverse-pairs) |
 | [1285-balance-a-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/1285-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -746,10 +749,12 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/akshitha1422/DSA/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/akshitha1422/DSA/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/akshitha1422/DSA/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/akshitha1422/DSA/tree/master/0493-reverse-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -763,6 +768,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akshitha1422/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/akshitha1422/DSA/tree/master/0493-reverse-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -870,4 +876,8 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/akshitha1422/DSA/tree/master/1028-interval-list-intersections) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/akshitha1422/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
