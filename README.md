@@ -493,6 +493,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | ------- |
 | [0136-single-number](https://github.com/akshitha1422/DSA/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/akshitha1422/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0191-number-of-1-bits](https://github.com/akshitha1422/DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/akshitha1422/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/akshitha1422/DSA/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -507,6 +508,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/akshitha1422/DSA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/akshitha1422/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akshitha1422/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/akshitha1422/DSA/tree/master/0493-reverse-pairs) |
