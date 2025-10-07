@@ -10,7 +10,7 @@ class Solution:
         num1=0
         num2=0
         exp=0
-        while l1!=None:
+        while l1:
             num1+=(l1.val)*(10**exp)
             exp+=1
             l1=l1.next
