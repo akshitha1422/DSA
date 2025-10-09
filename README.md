@@ -57,6 +57,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0735-asteroid-collision](https://github.com/akshitha1422/DSA/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/akshitha1422/DSA/tree/master/0874-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/akshitha1422/DSA/tree/master/1048-clumsy-factorial) |
+| [2058-concatenation-of-array](https://github.com/akshitha1422/DSA/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshitha1422/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshitha1422/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/akshitha1422/DSA/tree/master/2470-removing-stars-from-a-string) |
@@ -182,6 +183,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1927-maximum-ascending-subarray-sum](https://github.com/akshitha1422/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1962-single-threaded-cpu](https://github.com/akshitha1422/DSA/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akshitha1422/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2058-concatenation-of-array](https://github.com/akshitha1422/DSA/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshitha1422/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/akshitha1422/DSA/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/akshitha1422/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
