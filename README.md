@@ -193,6 +193,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshitha1422/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshitha1422/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitha1422/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2727-number-of-senior-citizens](https://github.com/akshitha1422/DSA/tree/master/2727-number-of-senior-citizens) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/akshitha1422/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2892-check-if-array-is-good](https://github.com/akshitha1422/DSA/tree/master/2892-check-if-array-is-good) |
 ## Hash Table
@@ -380,6 +381,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [2154-minimum-moves-to-convert-string](https://github.com/akshitha1422/DSA/tree/master/2154-minimum-moves-to-convert-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/akshitha1422/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/akshitha1422/DSA/tree/master/2470-removing-stars-from-a-string) |
+| [2727-number-of-senior-citizens](https://github.com/akshitha1422/DSA/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/akshitha1422/DSA/tree/master/3379-score-of-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/akshitha1422/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
