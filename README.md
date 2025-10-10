@@ -57,6 +57,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0735-asteroid-collision](https://github.com/akshitha1422/DSA/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/akshitha1422/DSA/tree/master/0874-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/akshitha1422/DSA/tree/master/1048-clumsy-factorial) |
+| [1803-average-waiting-time](https://github.com/akshitha1422/DSA/tree/master/1803-average-waiting-time) |
 | [2058-concatenation-of-array](https://github.com/akshitha1422/DSA/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshitha1422/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshitha1422/DSA/tree/master/2428-equal-row-and-column-pairs) |
@@ -179,6 +180,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akshitha1422/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/akshitha1422/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/akshitha1422/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1803-average-waiting-time](https://github.com/akshitha1422/DSA/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/akshitha1422/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akshitha1422/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/akshitha1422/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
