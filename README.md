@@ -60,6 +60,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1803-average-waiting-time](https://github.com/akshitha1422/DSA/tree/master/1803-average-waiting-time) |
 | [2058-concatenation-of-array](https://github.com/akshitha1422/DSA/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/akshitha1422/DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/akshitha1422/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshitha1422/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshitha1422/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/akshitha1422/DSA/tree/master/2470-removing-stars-from-a-string) |
@@ -197,6 +198,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshitha1422/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/akshitha1422/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/akshitha1422/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/akshitha1422/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshitha1422/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/akshitha1422/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitha1422/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -493,6 +495,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/akshitha1422/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/akshitha1422/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/akshitha1422/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/akshitha1422/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshitha1422/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitha1422/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
