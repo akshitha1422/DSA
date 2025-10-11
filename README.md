@@ -88,6 +88,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0068-text-justification](https://github.com/akshitha1422/DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/akshitha1422/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/akshitha1422/DSA/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshitha1422/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/akshitha1422/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshitha1422/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/akshitha1422/DSA/tree/master/0118-pascals-triangle) |
@@ -457,6 +458,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0042-trapping-rain-water](https://github.com/akshitha1422/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/akshitha1422/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/akshitha1422/DSA/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshitha1422/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akshitha1422/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/akshitha1422/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/akshitha1422/DSA/tree/master/0125-valid-palindrome) |
