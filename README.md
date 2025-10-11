@@ -183,6 +183,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1803-average-waiting-time](https://github.com/akshitha1422/DSA/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/akshitha1422/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akshitha1422/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshitha1422/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/akshitha1422/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1962-single-threaded-cpu](https://github.com/akshitha1422/DSA/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akshitha1422/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -379,6 +380,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1777-determine-if-two-strings-are-close](https://github.com/akshitha1422/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/akshitha1422/DSA/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1894-merge-strings-alternately](https://github.com/akshitha1422/DSA/tree/master/1894-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshitha1422/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1904-second-largest-digit-in-a-string](https://github.com/akshitha1422/DSA/tree/master/1904-second-largest-digit-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/akshitha1422/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/akshitha1422/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -581,6 +583,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0560-subarray-sum-equals-k](https://github.com/akshitha1422/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/akshitha1422/DSA/tree/master/0724-find-pivot-index) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshitha1422/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akshitha1422/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitha1422/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/akshitha1422/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
