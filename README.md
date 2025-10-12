@@ -192,6 +192,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1962-single-threaded-cpu](https://github.com/akshitha1422/DSA/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akshitha1422/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2058-concatenation-of-array](https://github.com/akshitha1422/DSA/tree/master/2058-concatenation-of-array) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/akshitha1422/DSA/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshitha1422/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/akshitha1422/DSA/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/akshitha1422/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -443,6 +444,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1829-maximum-units-on-a-truck](https://github.com/akshitha1422/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [1962-single-threaded-cpu](https://github.com/akshitha1422/DSA/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akshitha1422/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/akshitha1422/DSA/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshitha1422/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshitha1422/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/akshitha1422/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -583,6 +585,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/akshitha1422/DSA/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akshitha1422/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/akshitha1422/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/akshitha1422/DSA/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/akshitha1422/DSA/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/akshitha1422/DSA/tree/master/2154-minimum-moves-to-convert-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/akshitha1422/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
