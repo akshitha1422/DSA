@@ -21,6 +21,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0268-missing-number](https://github.com/akshitha1422/DSA/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/akshitha1422/DSA/tree/master/0313-super-ugly-number) |
 | [0441-arranging-coins](https://github.com/akshitha1422/DSA/tree/master/0441-arranging-coins) |
+| [0795-k-th-symbol-in-grammar](https://github.com/akshitha1422/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/akshitha1422/DSA/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/akshitha1422/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1048-clumsy-factorial](https://github.com/akshitha1422/DSA/tree/master/1048-clumsy-factorial) |
@@ -324,6 +325,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0231-power-of-two](https://github.com/akshitha1422/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/akshitha1422/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/akshitha1422/DSA/tree/master/0394-decode-string) |
+| [0795-k-th-symbol-in-grammar](https://github.com/akshitha1422/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/akshitha1422/DSA/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshitha1422/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
@@ -537,6 +539,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0268-missing-number](https://github.com/akshitha1422/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/akshitha1422/DSA/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0795-k-th-symbol-in-grammar](https://github.com/akshitha1422/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/akshitha1422/DSA/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/akshitha1422/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshitha1422/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
