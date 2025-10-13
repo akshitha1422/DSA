@@ -210,6 +210,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [2727-number-of-senior-citizens](https://github.com/akshitha1422/DSA/tree/master/2727-number-of-senior-citizens) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/akshitha1422/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2892-check-if-array-is-good](https://github.com/akshitha1422/DSA/tree/master/2892-check-if-array-is-good) |
+| [3483-alternating-groups-ii](https://github.com/akshitha1422/DSA/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -686,6 +687,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshitha1422/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/akshitha1422/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/akshitha1422/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3483-alternating-groups-ii](https://github.com/akshitha1422/DSA/tree/master/3483-alternating-groups-ii) |
 ## Rolling Hash
 |  |
 | ------- |
