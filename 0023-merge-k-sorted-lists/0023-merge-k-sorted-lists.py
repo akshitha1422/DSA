@@ -6,16 +6,15 @@
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
         st=[]
-        for i in lists:
-            head=i
+        for l in lists:
+            head=l
             while head:
                 st.append(head.val)
                 head=head.next
         st.sort()
-        print(st)
         dummy=ListNode(0)
         tail=dummy
-        for i in st:
-            tail.next=ListNode(i)
+        for s in st:
+            tail.next=ListNode(s)
             tail=tail.next
         return dummy.next
