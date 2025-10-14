@@ -13,11 +13,11 @@ class Solution:
             return curr
         def del_node(node,key):
             if not node:
-                return 
-            elif node.val>key:
-                node.left=del_node(node.left,key)
+                return
             elif node.val<key:
                 node.right=del_node(node.right,key)
+            elif node.val>key:
+                node.left=del_node(node.left,key)
             else:
                 if not node.left:
                     return node.right
