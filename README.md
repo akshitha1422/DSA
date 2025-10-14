@@ -83,6 +83,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0041-first-missing-positive](https://github.com/akshitha1422/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/akshitha1422/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/akshitha1422/DSA/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/akshitha1422/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/akshitha1422/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/akshitha1422/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/akshitha1422/DSA/tree/master/0055-jump-game) |
@@ -835,6 +836,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akshitha1422/DSA/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/akshitha1422/DSA/tree/master/0046-permutations) |
 | [0212-word-search-ii](https://github.com/akshitha1422/DSA/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/akshitha1422/DSA/tree/master/0494-target-sum) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/akshitha1422/DSA/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
