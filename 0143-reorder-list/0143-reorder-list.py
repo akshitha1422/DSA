@@ -29,4 +29,3 @@ class Solution:
             second.next=n
             first=n
             second=m
-
