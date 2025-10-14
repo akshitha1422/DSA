@@ -11,6 +11,6 @@ class Solution:
             if text1[n-1]==text2[m-1]:
                 memo[(n,m)]=1+helper(n-1,m-1)
             else:
-                memo[(n,m)]=max(helper(n-1,m),helper(n,m-1))
+                memo[(n,m)]=max(helper(n,m-1),helper(n-1,m))
             return memo[(n,m)]
         return helper(n,m)
