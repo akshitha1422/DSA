@@ -10,9 +10,8 @@ class Solution:
         def helper(node):
             if not node:
                 return
-            if node:
-                helper(node.left)
-                st.append(node.val)
-                helper(node.right)
+            helper(node.left)
+            st.append(node.val)
+            helper(node.right)
         helper(root)
         return st[k-1]
