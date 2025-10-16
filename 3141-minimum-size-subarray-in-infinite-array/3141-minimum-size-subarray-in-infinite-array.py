@@ -8,14 +8,15 @@ class Solution:
             return full_repeats*n
         arr=nums+nums
         prefix=0
-        seen={0:-1}
+        l=0
         min_val=float('inf')
-        for i,num in enumerate(arr):
-            prefix+=num
-            if prefix-target in seen:
-                min_val=min(min_val,i-seen[prefix-target])
-            if prefix not in seen:
-                seen[prefix]=i
+        for r in range(len(arr)):
+            prefix+=arr[r]
+            while prefix>target:
+                prefix-=arr[l]
+                l+=1
+            if prefix==target:
+                min_val=min(min_val,r-l+1)
         if min_val==float('inf'):
             return -1
         else:
