@@ -215,6 +215,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [2727-number-of-senior-citizens](https://github.com/akshitha1422/DSA/tree/master/2727-number-of-senior-citizens) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/akshitha1422/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2892-check-if-array-is-good](https://github.com/akshitha1422/DSA/tree/master/2892-check-if-array-is-good) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/akshitha1422/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3483-alternating-groups-ii](https://github.com/akshitha1422/DSA/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
@@ -274,6 +275,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [2428-equal-row-and-column-pairs](https://github.com/akshitha1422/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/akshitha1422/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2892-check-if-array-is-good](https://github.com/akshitha1422/DSA/tree/master/2892-check-if-array-is-good) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/akshitha1422/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/akshitha1422/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
@@ -627,6 +629,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akshitha1422/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitha1422/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/akshitha1422/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/akshitha1422/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 ## Design
 |  |
 | ------- |
@@ -705,6 +708,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshitha1422/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/akshitha1422/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/akshitha1422/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/akshitha1422/DSA/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3483-alternating-groups-ii](https://github.com/akshitha1422/DSA/tree/master/3483-alternating-groups-ii) |
 ## Rolling Hash
 |  |
