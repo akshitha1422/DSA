@@ -122,6 +122,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0219-contains-duplicate-ii](https://github.com/akshitha1422/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/akshitha1422/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/akshitha1422/DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/akshitha1422/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/akshitha1422/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akshitha1422/DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/akshitha1422/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -665,6 +666,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akshitha1422/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshitha1422/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/akshitha1422/DSA/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/akshitha1422/DSA/tree/master/0341-flatten-nested-list-iterator) |
 | [0649-dota2-senate](https://github.com/akshitha1422/DSA/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/akshitha1422/DSA/tree/master/0860-design-circular-queue) |
@@ -704,6 +706,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0187-repeated-dna-sequences](https://github.com/akshitha1422/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshitha1422/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akshitha1422/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/akshitha1422/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshitha1422/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshitha1422/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/akshitha1422/DSA/tree/master/0567-permutation-in-string) |
@@ -823,6 +826,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akshitha1422/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/akshitha1422/DSA/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/akshitha1422/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/akshitha1422/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/akshitha1422/DSA/tree/master/0355-design-twitter) |
@@ -1017,4 +1021,8 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1908-recyclable-and-low-fat-products](https://github.com/akshitha1422/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/akshitha1422/DSA/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/akshitha1422/DSA/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akshitha1422/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
