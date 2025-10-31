@@ -1,12 +1,12 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        sub=set()
-        i=0
+        sym=set()
         res=0
+        i=0
         for j in range(len(s)):
-            while s[j] in sub:
-                sub.remove(s[i])
+            while s[j] in sym:
+                sym.remove(s[i])
                 i+=1
-            sub.add(s[j])
-            res=max(res,len(sub))
+            sym.add(s[j])
+            res=max(res,len(sym))
         return res
