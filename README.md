@@ -577,6 +577,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0371-sum-of-two-integers](https://github.com/akshitha1422/DSA/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0795-k-th-symbol-in-grammar](https://github.com/akshitha1422/DSA/tree/master/0795-k-th-symbol-in-grammar) |
+| [1054-complement-of-base-10-integer](https://github.com/akshitha1422/DSA/tree/master/1054-complement-of-base-10-integer) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/akshitha1422/DSA/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/akshitha1422/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshitha1422/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
