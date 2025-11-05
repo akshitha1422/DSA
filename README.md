@@ -86,6 +86,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0042-trapping-rain-water](https://github.com/akshitha1422/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/akshitha1422/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/akshitha1422/DSA/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/akshitha1422/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/akshitha1422/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/akshitha1422/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/akshitha1422/DSA/tree/master/0055-jump-game) |
@@ -230,6 +231,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0013-roman-to-integer](https://github.com/akshitha1422/DSA/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/akshitha1422/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/akshitha1422/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/akshitha1422/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/akshitha1422/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/akshitha1422/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/akshitha1422/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -363,6 +365,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0020-valid-parentheses](https://github.com/akshitha1422/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akshitha1422/DSA/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/akshitha1422/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/akshitha1422/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/akshitha1422/DSA/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/akshitha1422/DSA/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/akshitha1422/DSA/tree/master/0072-edit-distance) |
@@ -433,6 +436,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0015-3sum](https://github.com/akshitha1422/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akshitha1422/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/akshitha1422/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/akshitha1422/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/akshitha1422/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/akshitha1422/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshitha1422/DSA/tree/master/0088-merge-sorted-array) |
