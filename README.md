@@ -576,6 +576,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0338-counting-bits](https://github.com/akshitha1422/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/akshitha1422/DSA/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0461-hamming-distance](https://github.com/akshitha1422/DSA/tree/master/0461-hamming-distance) |
 | [0795-k-th-symbol-in-grammar](https://github.com/akshitha1422/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1054-complement-of-base-10-integer](https://github.com/akshitha1422/DSA/tree/master/1054-complement-of-base-10-integer) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/akshitha1422/DSA/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
