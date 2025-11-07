@@ -1,6 +1,6 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        st=[1]*len(nums)
+        st=[0]*len(nums)
         prefix=1
         for i in range(len(nums)):
             st[i]=prefix
