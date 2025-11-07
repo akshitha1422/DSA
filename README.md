@@ -1016,6 +1016,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0595-big-countries](https://github.com/akshitha1422/DSA/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/akshitha1422/DSA/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/akshitha1422/DSA/tree/master/1153-product-sales-analysis-i) |
+| [1155-product-sales-analysis-iii](https://github.com/akshitha1422/DSA/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/akshitha1422/DSA/tree/master/1161-project-employees-i) |
 | [1182-game-play-analysis-iv](https://github.com/akshitha1422/DSA/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/akshitha1422/DSA/tree/master/1245-user-activity-for-the-past-30-days-i) |
