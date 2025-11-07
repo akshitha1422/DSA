@@ -383,6 +383,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0211-design-add-and-search-words-data-structure](https://github.com/akshitha1422/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/akshitha1422/DSA/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/akshitha1422/DSA/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/akshitha1422/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshitha1422/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/akshitha1422/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/akshitha1422/DSA/tree/master/0394-decode-string) |
@@ -514,6 +515,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0234-palindrome-linked-list](https://github.com/akshitha1422/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/akshitha1422/DSA/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/akshitha1422/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0344-reverse-string](https://github.com/akshitha1422/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshitha1422/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/akshitha1422/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshitha1422/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
