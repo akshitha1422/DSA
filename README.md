@@ -178,6 +178,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1019-squares-of-a-sorted-array](https://github.com/akshitha1422/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/akshitha1422/DSA/tree/master/1028-interval-list-intersections) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/akshitha1422/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1051-height-checker](https://github.com/akshitha1422/DSA/tree/master/1051-height-checker) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/akshitha1422/DSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1081-video-stitching](https://github.com/akshitha1422/DSA/tree/master/1081-video-stitching) |
 | [1105-uncrossed-lines](https://github.com/akshitha1422/DSA/tree/master/1105-uncrossed-lines) |
@@ -472,6 +473,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1018-largest-perimeter-triangle](https://github.com/akshitha1422/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/akshitha1422/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/akshitha1422/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1051-height-checker](https://github.com/akshitha1422/DSA/tree/master/1051-height-checker) |
 | [1217-relative-sort-array](https://github.com/akshitha1422/DSA/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/akshitha1422/DSA/tree/master/1222-remove-covered-intervals) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/akshitha1422/DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -833,6 +835,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/akshitha1422/DSA/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/akshitha1422/DSA/tree/master/1051-height-checker) |
 | [1217-relative-sort-array](https://github.com/akshitha1422/DSA/tree/master/1217-relative-sort-array) |
 ## Heap (Priority Queue)
 |  |
