@@ -158,6 +158,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0643-maximum-average-subarray-i](https://github.com/akshitha1422/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/akshitha1422/DSA/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/akshitha1422/DSA/tree/master/0692-top-k-frequent-words) |
+| [0713-subarray-product-less-than-k](https://github.com/akshitha1422/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0720-longest-word-in-dictionary](https://github.com/akshitha1422/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/akshitha1422/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/akshitha1422/DSA/tree/master/0733-flood-fill) |
@@ -566,6 +567,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0436-find-right-interval](https://github.com/akshitha1422/DSA/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/akshitha1422/DSA/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/akshitha1422/DSA/tree/master/0493-reverse-pairs) |
+| [0713-subarray-product-less-than-k](https://github.com/akshitha1422/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/akshitha1422/DSA/tree/master/0792-binary-search) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshitha1422/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akshitha1422/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -650,6 +652,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0209-minimum-size-subarray-sum](https://github.com/akshitha1422/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/akshitha1422/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/akshitha1422/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/akshitha1422/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/akshitha1422/DSA/tree/master/0724-find-pivot-index) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshitha1422/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -727,6 +730,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0567-permutation-in-string](https://github.com/akshitha1422/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshitha1422/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/akshitha1422/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/akshitha1422/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/akshitha1422/DSA/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/akshitha1422/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
