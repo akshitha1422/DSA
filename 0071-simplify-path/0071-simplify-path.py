@@ -6,7 +6,7 @@ class Solution:
         path=path.split('/')
         for i in path:
             if i=='' or i=='.':
-                continue
+                pass
             elif i=='..':
                 if st:
                     st.pop()
