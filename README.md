@@ -63,6 +63,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0874-backspace-string-compare](https://github.com/akshitha1422/DSA/tree/master/0874-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/akshitha1422/DSA/tree/master/1048-clumsy-factorial) |
 | [1803-average-waiting-time](https://github.com/akshitha1422/DSA/tree/master/1803-average-waiting-time) |
+| [1929-concatenation-of-array](https://github.com/akshitha1422/DSA/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/akshitha1422/DSA/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/akshitha1422/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/akshitha1422/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -205,6 +206,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akshitha1422/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshitha1422/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/akshitha1422/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/akshitha1422/DSA/tree/master/1929-concatenation-of-array) |
 | [1962-single-threaded-cpu](https://github.com/akshitha1422/DSA/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/akshitha1422/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2058-concatenation-of-array](https://github.com/akshitha1422/DSA/tree/master/2058-concatenation-of-array) |
