@@ -157,6 +157,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0605-can-place-flowers](https://github.com/akshitha1422/DSA/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/akshitha1422/DSA/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/akshitha1422/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/akshitha1422/DSA/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/akshitha1422/DSA/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/akshitha1422/DSA/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/akshitha1422/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -268,6 +269,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0567-permutation-in-string](https://github.com/akshitha1422/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshitha1422/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/akshitha1422/DSA/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/akshitha1422/DSA/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/akshitha1422/DSA/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/akshitha1422/DSA/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/akshitha1422/DSA/tree/master/0692-top-k-frequent-words) |
@@ -470,6 +472,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0561-array-partition](https://github.com/akshitha1422/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshitha1422/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/akshitha1422/DSA/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/akshitha1422/DSA/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/akshitha1422/DSA/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/akshitha1422/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akshitha1422/DSA/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -588,6 +591,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0371-sum-of-two-integers](https://github.com/akshitha1422/DSA/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/akshitha1422/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/akshitha1422/DSA/tree/master/0461-hamming-distance) |
+| [0645-set-mismatch](https://github.com/akshitha1422/DSA/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/akshitha1422/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1054-complement-of-base-10-integer](https://github.com/akshitha1422/DSA/tree/master/1054-complement-of-base-10-integer) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/akshitha1422/DSA/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
