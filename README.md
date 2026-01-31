@@ -191,6 +191,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1217-relative-sort-array](https://github.com/akshitha1422/DSA/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/akshitha1422/DSA/tree/master/1222-remove-covered-intervals) |
 | [1319-unique-number-of-occurrences](https://github.com/akshitha1422/DSA/tree/master/1319-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitha1422/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/akshitha1422/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/akshitha1422/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -281,6 +282,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0940-fruit-into-baskets](https://github.com/akshitha1422/DSA/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/akshitha1422/DSA/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/akshitha1422/DSA/tree/master/1319-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitha1422/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshitha1422/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/akshitha1422/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshitha1422/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -483,6 +485,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1051-height-checker](https://github.com/akshitha1422/DSA/tree/master/1051-height-checker) |
 | [1217-relative-sort-array](https://github.com/akshitha1422/DSA/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/akshitha1422/DSA/tree/master/1222-remove-covered-intervals) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitha1422/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/akshitha1422/DSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshitha1422/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/akshitha1422/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -848,6 +851,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0561-array-partition](https://github.com/akshitha1422/DSA/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/akshitha1422/DSA/tree/master/1051-height-checker) |
 | [1217-relative-sort-array](https://github.com/akshitha1422/DSA/tree/master/1217-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitha1422/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
