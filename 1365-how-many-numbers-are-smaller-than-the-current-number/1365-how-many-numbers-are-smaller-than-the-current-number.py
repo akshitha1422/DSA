@@ -14,5 +14,4 @@ class Solution:
         #         if nums[j]<nums[i]:
         #             count+=1
         #     st.append(count)
-        #     count=0
         # return st
