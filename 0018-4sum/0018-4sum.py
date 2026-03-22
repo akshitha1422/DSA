@@ -11,8 +11,8 @@ class Solution:
                 left=j+1
                 right=len(nums)-1
                 while left<right:
-                    s=nums[i]+nums[j]+nums[left]+nums[right]
-                    if s==target:
+                    st=nums[i]+nums[j]+nums[left]+nums[right]
+                    if st==target:
                         res.append([nums[i],nums[j],nums[left],nums[right]])
                         while left<right and nums[left]==nums[left+1]:
                             left+=1
@@ -20,7 +20,7 @@ class Solution:
                             right-=1
                         left+=1
                         right-=1
-                    elif s<target:
+                    elif st<target:
                         left+=1
                     else:
                         right-=1
