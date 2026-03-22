@@ -77,6 +77,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | ------- |
 | [0001-two-sum](https://github.com/akshitha1422/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/akshitha1422/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/akshitha1422/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/akshitha1422/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akshitha1422/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/akshitha1422/DSA/tree/master/0018-4sum) |
@@ -378,6 +379,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0008-string-to-integer-atoi](https://github.com/akshitha1422/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/akshitha1422/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/akshitha1422/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/akshitha1422/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akshitha1422/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akshitha1422/DSA/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/akshitha1422/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -982,6 +984,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/akshitha1422/DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/akshitha1422/DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/akshitha1422/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/akshitha1422/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
