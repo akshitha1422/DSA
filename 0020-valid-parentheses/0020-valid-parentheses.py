@@ -1,12 +1,15 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        count=0
-        sym={'(':')','{':'}','[':']'}
+        syb={')':'(','}':'{',']':'['}
         st=[]
         for i in s:
-            if i in sym.keys():
+            if i in syb.values():
                 st.append(i)
-            elif i in sym.values():
-                if not st or sym[st.pop()]!=i:
+            elif i in syb.keys():
+                if st and st[-1]==syb[i]:
+                    st.pop()
+                else:
                     return False
-        return len(st)==0
+        if len(st)!=0:
+            return False
+        return True
