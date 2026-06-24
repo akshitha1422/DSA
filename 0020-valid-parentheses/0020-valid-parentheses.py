@@ -5,7 +5,7 @@ class Solution:
         for i in s:
             if i in syb.values():
                 st.append(i)
-            if i in syb.keys():
+            elif i in syb.keys():
                 if st and st[-1]==syb[i]:
                     st.pop()
                 else:
