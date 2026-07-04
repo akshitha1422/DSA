@@ -1057,6 +1057,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0626-exchange-seats](https://github.com/akshitha1422/DSA/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/akshitha1422/DSA/tree/master/1045-customers-who-bought-all-products) |
 | [1135-customers-who-bought-all-products](https://github.com/akshitha1422/DSA/tree/master/1135-customers-who-bought-all-products) |
+| [1148-article-views-i](https://github.com/akshitha1422/DSA/tree/master/1148-article-views-i) |
 | [1153-product-sales-analysis-i](https://github.com/akshitha1422/DSA/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/akshitha1422/DSA/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/akshitha1422/DSA/tree/master/1161-project-employees-i) |
