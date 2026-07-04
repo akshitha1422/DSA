@@ -1044,6 +1044,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [0183-customers-who-never-order](https://github.com/akshitha1422/DSA/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/akshitha1422/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/akshitha1422/DSA/tree/master/0197-rising-temperature) |
+| [0550-game-play-analysis-iv](https://github.com/akshitha1422/DSA/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/akshitha1422/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/akshitha1422/DSA/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/akshitha1422/DSA/tree/master/0584-find-customer-referee) |
