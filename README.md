@@ -1066,6 +1066,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1153-product-sales-analysis-i](https://github.com/akshitha1422/DSA/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/akshitha1422/DSA/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/akshitha1422/DSA/tree/master/1161-project-employees-i) |
+| [1164-product-price-at-a-given-date](https://github.com/akshitha1422/DSA/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/akshitha1422/DSA/tree/master/1174-immediate-food-delivery-ii) |
 | [1182-game-play-analysis-iv](https://github.com/akshitha1422/DSA/tree/master/1182-game-play-analysis-iv) |
 | [1193-monthly-transactions-i](https://github.com/akshitha1422/DSA/tree/master/1193-monthly-transactions-i) |
