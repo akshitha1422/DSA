@@ -1070,6 +1070,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1174-immediate-food-delivery-ii](https://github.com/akshitha1422/DSA/tree/master/1174-immediate-food-delivery-ii) |
 | [1182-game-play-analysis-iv](https://github.com/akshitha1422/DSA/tree/master/1182-game-play-analysis-iv) |
 | [1193-monthly-transactions-i](https://github.com/akshitha1422/DSA/tree/master/1193-monthly-transactions-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/akshitha1422/DSA/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/akshitha1422/DSA/tree/master/1211-queries-quality-and-percentage) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/akshitha1422/DSA/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1251-average-selling-price](https://github.com/akshitha1422/DSA/tree/master/1251-average-selling-price) |
