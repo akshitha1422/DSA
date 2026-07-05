@@ -1099,6 +1099,7 @@ A collection of LeetCode and other questions to ace the coding interview! - Crea
 | [1827-invalid-tweets](https://github.com/akshitha1422/DSA/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/akshitha1422/DSA/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/akshitha1422/DSA/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1907-count-salary-categories](https://github.com/akshitha1422/DSA/tree/master/1907-count-salary-categories) |
 | [1908-recyclable-and-low-fat-products](https://github.com/akshitha1422/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/akshitha1422/DSA/tree/master/1934-confirmation-rate) |
 | [1942-primary-department-for-each-employee](https://github.com/akshitha1422/DSA/tree/master/1942-primary-department-for-each-employee) |
