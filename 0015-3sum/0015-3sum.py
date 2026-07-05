@@ -8,9 +8,9 @@ class Solution:
             left=i+1
             right=len(nums)-1
             while left<right:
-                sum=nums[left]+nums[i]+nums[right]
+                sum=nums[i]+nums[left]+nums[right]
                 if sum==0:
-                    res.append([nums[left],nums[i],nums[right]])
+                    res.append([nums[i],nums[left],nums[right]])
                     while left<right and nums[left]==nums[left+1]:
                         left+=1
                     while left<right and nums[right]==nums[right-1]:
