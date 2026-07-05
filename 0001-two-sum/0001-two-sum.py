@@ -1,8 +1,8 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        sys={}
+        sym={}
         for i in range(len(nums)):
-            if target-nums[i] in sys:
-                return [i,sys[target-nums[i]]]
+            if (target-nums[i]) in sym:
+                return [sym[target-nums[i]],i]
             else:
-                sys[nums[i]]=i
+                sym[nums[i]]=i
