@@ -8,12 +8,12 @@ class Solution:
             left=i+1
             right=len(nums)-1
             while left<right:
-                s=nums[i]+nums[left]+nums[right]
-                if abs(s-target)<abs(res-target):
-                    res=s
-                if s<target:
+                sum=nums[i]+nums[left]+nums[right]
+                if abs(target-sum)<abs(res-target):
+                    res=sum
+                elif sum<target:
                     left+=1
-                elif s>target:
+                elif sum>target:
                     right-=1
                 else:
                     return target
